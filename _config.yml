@@ -34,6 +34,9 @@ topics:
   - name: Compiler
     web_url: https://github.com/topics/compiler
 
+  - name: Programming language
+    web_url: https://github.com/topics/programming-language
+
   - name: Type system
     web_url: https://github.com/topics/type-system
 
