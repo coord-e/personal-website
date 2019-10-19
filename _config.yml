@@ -18,13 +18,14 @@ defaults:
 
 projects:
   sort_by: stars
-  limit: 8
+  limit: 12
   exclude:
     archived: false
     forks: true
     projects:
       - CopyBundleID
       - rlenv
+      - slide-the-great-rust
 
 social_media:
   twitter: coord_e
